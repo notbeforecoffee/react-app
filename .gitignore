@@ -31,4 +31,4 @@ yarn-error.log*
 # Ignore .git
 .git
 .gitignore
-*.md
+
